@@ -9,8 +9,7 @@ In addition to my technical expertise, I have completed the Google Cybersecurity
 
 My goal is to become a Security Analyst, a role that aligns with my strong analytical abilities, problem-solving skills, and passion for addressing emerging cybersecurity threats. As of 2024, I am preparing for key certifications such as **CompTIA Security+** and **Linux Foundation Certified Associate (LFCA)** to enhance my qualifications further.
 
-## CV
-
 ## LinkedIn
+<a href="https://www.linkedin.com/in/juilee-gund"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Projects
