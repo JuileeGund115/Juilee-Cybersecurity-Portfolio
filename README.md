@@ -23,7 +23,7 @@ My journey in computer engineering and cybersecurity has led me to develop a pas
 - Udemy Certification of “Beginners Guide to Cyber Security 2023”
 - Udemy Certification of “Ethical Hacking from Scratch
 
-## Used Tools, Frameworks & Standards 🖥️
+## Used Tools, Frameworks & Standards 👩‍💻
 - BurpSuite
 - Wireshark
 - Bettercap
