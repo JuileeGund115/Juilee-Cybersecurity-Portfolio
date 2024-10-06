@@ -1,6 +1,6 @@
 # Juilee-Cybersecurity-Portfolio
 
-## Professional Summary
+## Professional Summary 💼
 I am Juilee Gund, a Cybersecurity Professional with a master's degree in Cybersecurity from the University of Birmingham. I specialize in penetration testing, vulnerability assessments, and quality assurance within blockchain technology. In my role as a QA Specialist at Tata Consultancy Services (TCS), I led a diverse team to execute test plans for large-scale blockchain solutions, improving test efficiency and ensuring compliance with global security standards.
 
 During my academic journey, I gained hands-on experience in conducting vulnerability assessments, reverse engineering, and securing both hardware and software systems. I also had the opportunity to work on projects like IoT penetration testing, automated fuzz testing, and developing a secure public broadcast platform. These experiences helped me deepen my understanding of cybersecurity principles and sharpen my technical skills using tools like BurpSuite, Wireshark, and Aircrack-ng.
@@ -12,4 +12,33 @@ My goal is to become a Security Analyst, a role that aligns with my strong analy
 ## LinkedIn
 <a href="https://www.linkedin.com/in/juilee-gund"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Projects
+## Seeking Opportunities 🌟
+My journey in computer engineering and cybersecurity has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. I am actively seeking internships or entry-level or associate roles in cybersecurity & blockchain security. I am seeking the opportunity to apply my skills to real-world projects.
+
+## Projects 💻
+
+## Certifications 📚
+- Google Cybersecurity Certificate
+- C, Python & Java Programming Language Certifications
+- Udemy Certification of “Beginners Guide to Cyber Security 2023”
+- Udemy Certification of “Ethical Hacking from Scratch
+
+## Used Tools, Frameworks & Standards 🖥️
+- BurpSuite
+- Wireshark
+- Bettercap
+- N-map
+- OWASP 10
+- ISO 27001
+- NIST
+
+## Education 🎓
+- ***MSc in Cybersecurity*** from **University of Birmingham**, United Kingdom.
+- ***Bachelor of Engineering in Computer Engineering***, specializing in Cybersecurity and Blockchain Technology from **University of Mumbai**, India.
+- ***Diploma in Computer Technology*** from **MSBTE**, India
+
+## Connect with me 📩
+Feel free to reach out to me via email at juileegund115@gmail.com or connect with me on LinkedIn for further discussion and collaboration opportunities.
+
+Let's innovate and secure the future together!
+
